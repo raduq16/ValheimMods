@@ -1160,10 +1160,11 @@ Listen to the event `MagicItemEffectDefinitions.OnSetupMagicItemEffectDefinition
 > **Prefixes:** Njord's, Water Walking
 > **Suffixes:** of Water Walking, of Njord's Smooth Sea
 > 
-> **Allowed Item Types:** *None*
+> > **Allowed Item Types:** Legs
 > 
 > **Requirements:**
-> > **Flags:** `NoRoll, ExclusiveSelf`
+> > **Flags:** `ExclusiveSelf`
+> > **AllowedItemTypes:** `Legs`
 
 ## ExplosiveArrows
 
